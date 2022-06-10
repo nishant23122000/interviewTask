@@ -1,3 +1,8 @@
+## External libraries
+1. react-chartjs-2
+2. websocket
+3. chart.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
