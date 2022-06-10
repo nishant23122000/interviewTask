@@ -1,0 +1,22 @@
+.search_section{
+    padding: 3rem;
+}
+.search_section input{
+    width: 100%;
+    padding: 1rem;
+    outline-style: none;
+}
+
+table{
+    width: 100%;
+
+}
+table th{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+table tr{
+    padding: 1rem;
+    text-align: center;
+}
